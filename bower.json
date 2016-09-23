@@ -1,0 +1,23 @@
+{
+  "name": "gel-typography.css",
+  "version": "1.0.0",
+  "description": "Compiled versions of https://github.com/bbc/gel-typography",
+  "main": "typography.css",
+  "keywords": [
+    "bbc",
+    "gel",
+    "typography"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.bbc.co.uk/gel",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "dist",
+    "src"
+  ]
+}

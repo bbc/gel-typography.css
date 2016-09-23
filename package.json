@@ -10,12 +10,12 @@
   "keywords": [
     "bbc",
     "gel",
-    "grid"
+    "typography"
   ],
   "author": "BBC",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bbc/gel-typography.css/issues"
   },
-  "homepage": "https://github.com/bbc/gel-typography.css#readme"
+  "homepage": "http://www.bbc.co.uk/gel"
 }
