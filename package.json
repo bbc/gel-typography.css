@@ -1,0 +1,21 @@
+{
+  "name": "gel-typography.css",
+  "version": "1.0.0",
+  "description": "Compiled versions of https://github.com/bbc/gel-typography",
+  "main": "gel-typography.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbc/gel-typography.css.git"
+  },
+  "keywords": [
+    "bbc",
+    "gel",
+    "grid"
+  ],
+  "author": "BBC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbc/gel-typography.css/issues"
+  },
+  "homepage": "https://github.com/bbc/gel-typography.css#readme"
+}
